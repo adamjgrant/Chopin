@@ -1,5 +1,6 @@
 # Chopin
 Also see [Amadeus](https://github.com/ajkochanowicz/Amadeus) CSS variable conventions
+
 A CSS class naming specification to replace BEM
 
 # Why replace BEM?
