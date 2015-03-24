@@ -106,5 +106,3 @@ Elements should be well-namespaced and simplistic
     .title {
       // Not recommended. Applies to all title classes.
     }
-
-(Working on this draft. Thanks for your patience)
