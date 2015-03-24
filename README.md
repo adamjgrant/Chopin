@@ -106,3 +106,7 @@ Elements should be well-namespaced and simplistic
     .title {
       // Not recommended. Applies to all title classes.
     }
+    
+## Credits
+
+@coreyti for his work on [Emerson](https://github.com/GetEmerson/emerson-rb). The data-attribute selection strategy of Chopin is heavily based on his work.
