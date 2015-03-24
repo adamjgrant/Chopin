@@ -78,8 +78,8 @@ Examples: Slideshows, sidebars, message window, anything that is not a whole pag
 ![Product index](http://cdn.everything.io/chopin/products_index.png)
 
     [data-component="product"] {
-      img {
-        background-color: darkviolet;
+      .title {
+        font-size: 1.2rem;
       }
     }
 
