@@ -109,4 +109,4 @@ Elements should be well-namespaced and simplistic
     
 ## Credits
 
-@coreyti for his work on [Emerson](https://github.com/GetEmerson/emerson-rb). The data-attribute selection strategy of Chopin is heavily based on his work.
+[@coreyti](https://github.com/coreyti) for his work on [Emerson](https://github.com/GetEmerson/emerson-rb). The data-attribute selection strategy of Chopin is heavily based on his work.
