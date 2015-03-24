@@ -28,6 +28,12 @@ This is made possible by namespacing with the following properties:
 
 ### Controller/Action
 
+![Home view](http://cdn.everything.io/chopin/home.png)
+
+    [data-controller="home"] {
+      background-color: blue;
+    }
+
 This is essentially the page or page class. If using a backend MVC framework like Rails, this should map directly to the respective controller and action.
 
     [data-controller="products"] {
@@ -46,6 +52,12 @@ These selectors target the `data-[property]` attribute on HTML elements
         
 ### Component
 
+![Product index](http://cdn.everything.io/chopin/products_index.png)
+
+    [data-component="product"] {
+      background-color: violet;
+    }
+
 A component is a top-level controllable item having an aggregate of elements.
 
 Examples: Slideshows, sidebars, message window, anything that is not a whole page or just a small element of the page.
@@ -61,6 +73,15 @@ Examples: Slideshows, sidebars, message window, anything that is not a whole pag
     }
     
 ### Element
+
+![Product page](http://cdn.everything.io/chopin/products_show.png)
+![Product index](http://cdn.everything.io/chopin/products_index.png)
+
+    [data-component="product"] {
+      img {
+        background-color: darkviolet;
+      }
+    }
 
 Elements can be HTML elements or just very small sets of elements that don't qualify in one's mental model as a "component" ([I know it when I see It](http://en.wikipedia.org/wiki/I_know_it_when_I_see_it))
 
