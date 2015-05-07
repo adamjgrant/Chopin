@@ -1,5 +1,5 @@
 # Chopin
-*Also see [Amadeus](https://github.com/ajkochanowicz/Amadeus) CSS variable conventions*
+*Also see [Amadeus](https://github.com/ajkochanowicz/Amadeus) CSS variable conventions and [Debussy](https://github.com/ajkochanowicz/Debussy) for CSS formatting.*
 
 A CSS selector naming specification to replace BEM
 
